@@ -1,4 +1,4 @@
-""app.py - Khwezi Mining Health, Safety and Equipment Monitoring Application (Streamlit).
+"""app.py - Khwezi Mining Health, Safety and Equipment Monitoring Application (Streamlit).
 Run with:  streamlit run app.py"""
 import pandas as pd
 import plotly.express as px
